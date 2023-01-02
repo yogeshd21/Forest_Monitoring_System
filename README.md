@@ -1,4 +1,4 @@
-# Forest_Monitoring_System
+# Forest Monitoring System
 Bits of implementation from my project 'Forest Monitoring System'
 
 Description:
